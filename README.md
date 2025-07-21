@@ -38,10 +38,9 @@ From detecting moods using OpenCV to designing a Google-inspired music player, I
 
 ## 📬 Let’s Connect!
 
-- 💻 GitHub: [github.com/snehasingh](https://github.com/your-profile)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 📧 Email: snehasingh@example.com
+- 💻 GitHub: [github.com/snehasingh](https://github.com/sneha-94)
+- 📧 Email: sneha.rkt14@gmail.com
 
 ---
 
-> _“Code with emotion. Build with love. Design with joy.” — Sneha 💙_
+
