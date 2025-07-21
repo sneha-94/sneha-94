@@ -1,16 +1,47 @@
 ## Hi there 👋
 
-<!--
-**sneha-94/sneha-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  I'm Sneha Singh!  
+🎧 Data analysis| 🎨 UI Designer | 📊 machine learning | Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+Hi! I'm a  B.Tech student who loves building meaningful, aesthetic, and smart tech.  
+From detecting moods using OpenCV to designing a Google-inspired music player, I enjoy mixing **code + creativity** to bring unique ideas to life.
+
+
+
+---
+
+## 🔨 Tech Stack & Tools
+
+- **Languages:** Python, Java, HTML, CSS  
+- **Libraries:** OpenCV, NumPy, Pandas, Matplotlib  
+- **Tools:** Jupyter Notebook, Git, GitHub, Canva, Power BI, Tkinter
+
+---
+
+## 🎨 Interests
+
+- UI/UX with Canva  
+- Data Visualizations & Dashboards  
+- OpenCV & AI-based creativity  
+- Japanese culture, anime, and tech 🇯🇵  
+- Creating things that help people smile 😊
+
+---
+
+
+
+---
+
+## 📬 Let’s Connect!
+
+- 💻 GitHub: [github.com/snehasingh](https://github.com/your-profile)
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 📧 Email: snehasingh@example.com
+
+---
+
+> _“Code with emotion. Build with love. Design with joy.” — Sneha 💙_
